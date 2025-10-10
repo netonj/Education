@@ -7,7 +7,7 @@
 ## Project Overview
 
 
-- **Objective:** 
+- **Objective:** Explain how ACT score can be influenced by certain socioeconomic factors to identify disparity in test performance.
 - **Domain:** Education
 - **Key Techniques:** Statistical comparison and time-series.
 
