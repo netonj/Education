@@ -1,0 +1,15 @@
+Software: Python 3 (conda base)
+Libraries:
+  pandas
+  numpy
+  matplotlib.pyplot
+  seaborn
+  sklearn.experimental - iterative imputer
+  sklearn.imputer - iterative imputer
+  sklearn.preprocessing - standard scaler
+  statsmodels
+  statsmodels.api
+  statsmodels.formula.api
+  sklearn
+  sklearn.metrics
+  
