@@ -28,17 +28,20 @@
 ## Data
 
 - **Source:** EdGap data: https://github.com/brian-fischer/DATA-5100/blob/main/EdGap_data.xlsx; Schools information data: https://www.dropbox.com/scl/fi/fkafjk8902sq8ptxh94r2/ccd_sch_029_1617_w_1a_11212017.csv?rlkey=gucrdz5f6e38bezz2y3yalxbw&e=1&dl=0
-- **Description:** The raw data for Seattle had 10 data columns with 1658 entries of object or float variables. The raw data for Vancouver had 6 data columns with 1824 entries of object or float variables. The clean data set has 4 columns with 3652 entries of dateime, object, and float variables. 
+- **Description:** The raw data for EdGap had 7986 entries and 7 columns, containing the ACT average variable. The Schools information set had 102183 entries and 65 columns, containing the relevant socioeconomic data.
 - **License:** NA
 
 ---
 
 ## Analysis
 
+After cleaning and combining the two data sets, simple categorial analysis was conducted. The primary analyis, however, was done by regression modeling. Single variable regression, multiple variable regression, and comparisons of their results informed the conclusion.
 
 ---
 
 ## Results
+
+Percentage of students on school lunch is the strongest predictor of average ACT score in this analysis. As percentage of students on free or reduced lunch increases, average ACT score decreases.
 
 ---
 
