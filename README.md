@@ -35,7 +35,7 @@
 
 ## Analysis
 
-After cleaning and combining the two data sets, simple categorial analysis was conducted. The primary analyis, however, was done by regression modeling. Single variable regression, multiple variable regression, and comparisons of their results informed the conclusion.
+After cleaning and combining the two data sets, simple categorial graphical analysis was conducted. The primary analysis, however, was done by regression modeling and graphing of those results. Single variable regression, multiple variable regression, and comparisons of their results informed the conclusion.
 
 ---
 
