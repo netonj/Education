@@ -1,4 +1,4 @@
-# Education Project
+# What socioeconomic variable best predicts a school's Average ACT score?
 
 > This project explores how certain socioeconomic variables influence high school ACT score.
 
